@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B4453-6C75-472D-8E88-368BAC9A56C3}|MatchDates\\MatchDates.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1B4453-6C75-472D-8E88-368BAC9A56C3}|MatchDates\\MatchDates.csproj|solutionrelative:matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D28389-5275-4638-84E9-FE870539C420}|MatchFullName\\MatchFullName.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D28389-5275-4638-84E9-FE870539C420}|MatchFullName\\MatchFullName.csproj|solutionrelative:matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EFCF56-8D11-4118-A95D-4C136869B582}|MatchPhoneNumber\\MatchPhoneNumber.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EFCF56-8D11-4118-A95D-4C136869B582}|MatchPhoneNumber\\MatchPhoneNumber.csproj|solutionrelative:matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724AE4AA-898A-4F90-B955-EEE25CAA9DFF}|DigitsLettersAndOthers\\DigitsLettersAndOthers.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\digitslettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724AE4AA-898A-4F90-B955-EEE25CAA9DFF}|DigitsLettersAndOthers\\DigitsLettersAndOthers.csproj|solutionrelative:digitslettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC501F5-68C9-48B5-98F7-80BDC095B5E2}|TextFilter\\TextFilter.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC501F5-68C9-48B5-98F7-80BDC095B5E2}|TextFilter\\TextFilter.csproj|solutionrelative:textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1274530-C13A-45CB-A1A5-BA017E99BE24}|Substring\\Substring.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1274530-C13A-45CB-A1A5-BA017E99BE24}|Substring\\Substring.csproj|solutionrelative:substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FB514-9B6D-4EAE-9828-3661B4E17021}|RepeatStrings\\RepeatStrings.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FB514-9B6D-4EAE-9828-3661B4E17021}|RepeatStrings\\RepeatStrings.csproj|solutionrelative:repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECE2FB-5576-44C8-A3CC-0225C8991F4B}|ReverseString\\ReverseString.csproj|h:\\programming advanced for qa\\text-processing-and-regular-expressions\\reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECE2FB-5576-44C8-A3CC-0225C8991F4B}|ReverseString\\ReverseString.csproj|solutionrelative:reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\MatchDates\\Program.cs",
+              "RelativeDocumentMoniker": "MatchDates\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\MatchDates\\Program.cs*",
+              "RelativeToolTip": "MatchDates\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:07:14.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\MatchPhoneNumber\\Program.cs",
+              "RelativeDocumentMoniker": "MatchPhoneNumber\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\MatchPhoneNumber\\Program.cs",
+              "RelativeToolTip": "MatchPhoneNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:03:26.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "MatchFullName\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\MatchFullName\\Program.cs",
+              "RelativeToolTip": "MatchFullName\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:27:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\DigitsLettersAndOthers\\Program.cs",
+              "RelativeDocumentMoniker": "DigitsLettersAndOthers\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\DigitsLettersAndOthers\\Program.cs",
+              "RelativeToolTip": "DigitsLettersAndOthers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:32:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "TextFilter\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\TextFilter\\Program.cs",
+              "RelativeToolTip": "TextFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:26:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\Substring\\Program.cs",
+              "RelativeDocumentMoniker": "Substring\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\Substring\\Program.cs",
+              "RelativeToolTip": "Substring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:20:09.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "RepeatStrings\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\RepeatStrings\\Program.cs",
+              "RelativeToolTip": "RepeatStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:19:46.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseString\\Program.cs",
+              "ToolTip": "H:\\Programming Advanced for QA\\Text-Processing-And-Regular-Expressions\\ReverseString\\Program.cs",
+              "RelativeToolTip": "ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:19:44.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

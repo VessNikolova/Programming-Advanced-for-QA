@@ -1,0 +1,11 @@
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\bin\Debug\net6.0\TestApp.deps.json
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\bin\Debug\net6.0\TestApp.dll
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\bin\Debug\net6.0\TestApp.pdb
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\TestApp.dll
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\TestApp.pdb
+H:\Programming Advanced for QA\Text Processing and Regular Expressions\Exercise\TestApp\obj\Debug\net6.0\ref\TestApp.dll
